@@ -1,10 +1,14 @@
 # Meridian
 
+**Version 1.0.0**
+
 A production-style real estate platform for listings, agents, agencies, inquiries, viewing requests, and role-based dashboards.
 
 Written in **JavaScript and JSX**. Stack: TanStack Start, Better Auth, Postgres, Tailwind, Framer Motion.
 
-**Repo:** [Justdeola/meridian-real-estate](https://github.com/Justdeola/meridian-real-estate)
+**Repo:** [Justdeola/meridian-real-estate](https://github.com/Justdeola/meridian-real-estate)  
+**Release:** [v1.0.0](https://github.com/Justdeola/meridian-real-estate/releases/tag/v1.0.0)  
+**Live:** [meridian-real-estate-pi.vercel.app](https://meridian-real-estate-pi.vercel.app)
 
 ## Deploy on Vercel (from GitHub)
 
